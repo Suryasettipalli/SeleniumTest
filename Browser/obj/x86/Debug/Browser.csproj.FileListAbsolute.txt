@@ -1,0 +1,9 @@
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\TestBrowser.dll.config
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\TestBrowser.dll
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\TestBrowser.pdb
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\nunit.framework.dll
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\WebDriver.dll
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\nunit.framework.xml
+C:\Samples\ConsoleDTCC\Browser\bin\Debug\WebDriver.xml
+C:\Samples\ConsoleDTCC\Browser\obj\x86\Debug\TestBrowser.dll
+C:\Samples\ConsoleDTCC\Browser\obj\x86\Debug\TestBrowser.pdb
